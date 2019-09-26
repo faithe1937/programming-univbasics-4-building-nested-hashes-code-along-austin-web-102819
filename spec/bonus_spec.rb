@@ -8,3 +8,4 @@ it "uses the []= method to change the hero and heroine's status from alive to de
     expect(bonus[:capulet][:heroine][:status]).to eq("dead")
 
   end
+end
